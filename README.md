@@ -7,9 +7,14 @@ I hope this can help you if you face the same problem !
 
 ## Hexagon
 
+In this example, I point the [Alma Mater](https://en.wikipedia.org/wiki/Alma_Mater_(New_York_sculpture) ) using gmplot built-in marker. Alma Mater is a French (clap clap !) designed sculpture which stands at the heart of the Columbia campus: the [Low Library steps](http://www.wikicu.com/Low_Library_stepsAnd). A super relaxing place! <br><br>
+Then, I draw, as an example, a hexagon whose center is the Alma Mater. 
+
 ![Hexagon Example](hexagon.png)
 
 ## Arrow
+
+Here, I show how to draw an arrow with [gmplot](https://github.com/vgm64/gmplot). It was useful to illustrate the moves of cars in the project. But here I decided to show you something even more interesting: my favorite cookie spot in the area a.k.a. [Levain Bakery](https://www.levainbakery.com/). 
 
 ![Arrow Example](arrow.png)
 
