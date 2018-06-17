@@ -7,11 +7,11 @@ I hope this can help you if you face the same problem !
 
 ## Hexagon
 
-![Hexagon Example](hexagon)
+![Hexagon Example](hexagon.png)
 
 ## Arrow
 
-![Arrow Example](arrow)
+![Arrow Example](arrow.png)
 
 ## Thanks to
 
